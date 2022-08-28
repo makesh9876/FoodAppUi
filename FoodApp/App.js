@@ -7,6 +7,7 @@ export default function App() {
       <Text style= {styles.text}>Food App</Text>
       <Text>Let's start eat with KFC</Text>
       <Text>magesh nanee</Text>
+      <Text>hey theree</Text>
       <StatusBar style="auto" />
     </View>
   );
