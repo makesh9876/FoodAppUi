@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style= {styles.text}>Food App</Text>
-      <Text>By Self made millionares</Text>
+      <Text>Welcome To KFC</Text>
       <StatusBar style="auto" />
     </View>
   );
